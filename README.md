@@ -6,5 +6,5 @@ qualquer tipo de informação que precisa cadastrar em um
 sistema
 
 ## Bibliotecas | Pacotes: 
-Pyautogui
-pandas
+  - Pyautogui
+  - pandas
